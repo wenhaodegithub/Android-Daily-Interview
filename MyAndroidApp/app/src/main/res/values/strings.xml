@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">我的Android应用</string>
+    <string name="welcome_message">欢迎使用我的Android应用！</string>
+    <string name="counter_text">点击次数: 0</string>
+    <string name="button_click">点击我</string>
+    <string name="button_reset">重置</string>
+    <string name="app_logo_description">应用图标</string>
+</resources>
